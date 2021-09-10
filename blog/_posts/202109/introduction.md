@@ -1,8 +1,12 @@
 ---
 title: こんちわーイヌヌワンです
 date: 2021-09-11
-description: 北米版BDを扱う最大手のサイトであるRightStufのデータを取得するプログラムを書きました
-category: プログラミング
+description: 将棋の研究してます
+category: 将棋
 tags:
-  - Python
+  - 将棋
 ---
+
+
+# 将棋1
+## 青野流
